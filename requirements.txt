@@ -1,0 +1,10 @@
+jupyterlab
+tensorflow
+torch
+pandas
+numpy
+matplotlib
+scikit-learn
+lightning
+torchmetrics
+ipywidgets
